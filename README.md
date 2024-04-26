@@ -1,4 +1,4 @@
-# Visual Odometry Project Readme
+# Visual Odometry Project
 
 ## Introduction
 Welcome to the Visual Odometry project! This repository contains code for implementing visual odometry using a stereo camera setup and an IMU sensor. Visual odometry is a technique used in robotics and computer vision to estimate the motion of a vehicle or robot by analyzing the changes in camera images over time.
